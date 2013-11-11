@@ -1,0 +1,14 @@
+{
+  "name": "rgrove-lazyload",
+  "homepage": "https://github.com/rgrove/lazyload",
+  "_release": "304af84122",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "304af84122e836677e97eaf37fc4b41a005f89d6"
+  },
+  "_source": "git://github.com/rgrove/lazyload.git",
+  "_target": "*",
+  "_originalSource": "rgrove-lazyload",
+  "_direct": true
+}
